@@ -2,7 +2,6 @@
 
 A powerful, interactive form builder application built with React, TypeScript, and Tailwind CSS. Create dynamic forms with customizable fields, real-time validation, and advanced features like derived fields with auto-calculation capabilities.
 
-![Dynamic Form Builder](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center)
 
 ## 🚀 Features
 
