@@ -58,7 +58,7 @@ A powerful, interactive form builder application built with React, TypeScript, a
    ```bash
    # If you have the project files, navigate to the project directory
    git clone https://github.com/Saiashu12/Form-builder/
-   cd Dynamic-Form-Builder-Application
+   cd Form-builder
    ```
 
 2. **Install dependencies**
